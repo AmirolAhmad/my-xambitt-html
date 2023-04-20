@@ -1,0 +1,44 @@
+.my-6 {
+  margin-top: 140px !important;
+  margin-bottom: 140px !important;
+}
+
+.mt-6 {
+ margin-top: 140px !important;
+}
+
+.mb-6 {
+ margin-bottom: 140px !important;
+}
+
+.py-6 {
+ padding-top: 140px !important;
+ padding-bottom: 140px !important;
+}
+
+.pt-6 {
+  padding-top: 140px !important;
+}
+
+.pb-6 {
+  padding-bottom: 140px !important;
+}
+
+.img-xambitt {
+  min-width: 100% !important;
+  height: 700px !important;
+}
+
+.top-image {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.centered {
+  width: 80%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
